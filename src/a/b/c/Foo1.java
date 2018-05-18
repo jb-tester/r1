@@ -8,14 +8,13 @@ package a.b.c;
  */
 public class Foo1 {
     /**
-     * str1
+     * str1...
      */
-
     String str1;
-    /**
-     * str1
-     */
 
+    /**
+     * str1...
+     */
     int iii;
 
     public Foo1(String str1, int iii) {
