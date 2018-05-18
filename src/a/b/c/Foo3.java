@@ -7,4 +7,6 @@ package a.b.c;
  * *******************************
  */
 public class Foo3 {
+    public Foo3() {
+    }
 }
