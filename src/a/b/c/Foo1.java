@@ -10,11 +10,11 @@ public class Foo1 {
     /**
      * str1
      */
-    //
+    // str1
     String str1;
     /**
      * str1
      */
-    //
+    // iii
     int iii;
 }
