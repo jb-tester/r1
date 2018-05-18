@@ -7,6 +7,15 @@ package a.b.c;
  * *******************************
  */
 public class Foo2 {
+    String id;
+
+    public String getId() {
+        return id;
+    }
+
+    public void setId(String id) {
+        this.id = id;
+    }
     int anInt;
 
     public Foo2(int anInt) {
