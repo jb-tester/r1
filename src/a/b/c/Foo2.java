@@ -8,4 +8,8 @@ package a.b.c;
  */
 public class Foo2 {
     int anInt;
+
+    public Foo2(int anInt) {
+        this.anInt = anInt;
+    }
 }
