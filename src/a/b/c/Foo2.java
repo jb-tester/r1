@@ -7,7 +7,7 @@ package a.b.c;
  * *******************************
  */
 public class Foo2 {
-    int anInt;
+    private int anInt;
 
     public Foo2(int anInt) {
         this.anInt = anInt;
