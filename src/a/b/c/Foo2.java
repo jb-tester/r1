@@ -7,4 +7,5 @@ package a.b.c;
  * *******************************
  */
 public class Foo2 {
+    int anInt;
 }
