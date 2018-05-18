@@ -7,5 +7,6 @@ package a.b.c;
  * *******************************
  */
 public class Foo1 {
+    String str1;
     int iii;
 }
