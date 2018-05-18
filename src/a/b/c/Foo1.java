@@ -10,11 +10,16 @@ public class Foo1 {
     /**
      * str1
      */
-    // str1
+
     String str1;
     /**
      * str1
      */
-    // iii
+
     int iii;
+
+    public Foo1(String str1, int iii) {
+        this.str1 = str1;
+        this.iii = iii;
+    }
 }
