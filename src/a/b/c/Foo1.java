@@ -8,15 +8,15 @@ package a.b.c;
  */
 public class Foo1 {
     /**
-     * str1
+     *     str1
+     *
      */
-
-    String str1;
+    private String str1;
     /**
-     * str1
+     *    str1
+     *
      */
-
-    int iii;
+    private int iii;
 
     public Foo1(String str1, int iii) {
         this.str1 = str1;
