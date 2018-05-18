@@ -10,4 +10,8 @@ public class Foo3 {
     public Foo3() {
     }
     String id;
+
+    public Foo3(String id) {
+        this.id = id;
+    }
 }
