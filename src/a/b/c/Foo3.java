@@ -8,12 +8,11 @@ package a.b.c;
  */
 public class Foo3 {
 
+    /**
+     * @param arg
+     */
     public void method1(String arg) {
-        /*
-      bar field
-     */ /**
-         * bar field
-         */String bar = arg.toLowerCase();
+        String bar = arg.toLowerCase();
         System.out.println(bar);
     }
 
