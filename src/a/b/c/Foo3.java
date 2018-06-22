@@ -17,5 +17,4 @@ public class Foo3 {
         System.out.println(bar);
     }
 
-    ;
 }
