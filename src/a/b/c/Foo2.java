@@ -8,7 +8,7 @@ package a.b.c;
  */
 public class Foo2 {
     private final int anInt;
-    String id;
+    private String id;
 
 
 
