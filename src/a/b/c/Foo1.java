@@ -12,7 +12,7 @@ public class Foo1 {
      */
    private String str1;
     /**
-     *    iii
+     *
      * str1......
      */
    private int iii;
@@ -23,6 +23,8 @@ public class Foo1 {
     }
 
     public int getIii() {
+
+
         return iii;
     }
 }
