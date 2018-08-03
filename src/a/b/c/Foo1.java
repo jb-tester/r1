@@ -8,6 +8,7 @@ package a.b.c;
  */
 public class Foo1 {
     /**
+     *
      * str1...
      */
    private String str1;
