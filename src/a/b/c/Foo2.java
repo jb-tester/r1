@@ -10,6 +10,8 @@ public class Foo2 {
     private final int anInt;
     String id;
 
+
+
     public String getId() {
         return id;
     }
