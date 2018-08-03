@@ -15,7 +15,7 @@ public class Foo1 {
      */
    private String str1;
     /**
-
+     ...
      */
    private int iii;
 
