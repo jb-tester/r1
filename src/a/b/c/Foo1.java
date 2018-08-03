@@ -23,7 +23,7 @@ public class Foo1 {
      */
    private int iii;
 
-    private int iii;
+
 
     public Foo1(String str1, int iii) {
         this.str1 = str1;
