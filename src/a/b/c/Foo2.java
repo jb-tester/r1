@@ -7,7 +7,8 @@ package a.b.c;
  * *******************************
  */
 public class Foo2 {
-    private String id;
+    private final int anInt;
+    String id;
 
     public String getId() {
         return id;
@@ -16,7 +17,6 @@ public class Foo2 {
     public void setId(String id) {
         this.id = id;
     }
-    private int anInt;
 
     public Foo2(int anInt) {
         this.anInt = anInt;
