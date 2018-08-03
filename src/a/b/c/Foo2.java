@@ -7,6 +7,7 @@ package a.b.c;
  * *******************************
  */
 public class Foo2 {
+    private final int anInt;
     String id;
 
     public String getId() {
@@ -18,6 +19,6 @@ public class Foo2 {
     }
 
     public Foo2(int anInt) {
-        int anInt1 = anInt;
+        this.anInt = anInt;
     }
 }
