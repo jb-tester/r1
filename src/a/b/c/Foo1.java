@@ -9,6 +9,10 @@ package a.b.c;
 public class Foo1 {
     /**
 
+     *
+     * str1...
+     *  ddddddd
+     * str1...
      */
    private String str1;
     /**
