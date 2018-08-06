@@ -8,7 +8,7 @@ package a.b.c;
  */
 public class Foo5 {
 
-
+int yyy;
 
 
 }
