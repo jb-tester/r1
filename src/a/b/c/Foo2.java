@@ -18,6 +18,7 @@ public class Foo2 {
 
     public void setId(String id) {
         this.id = id;
+
     }
 
     public Foo2(int anInt) {
