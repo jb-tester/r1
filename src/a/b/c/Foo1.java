@@ -27,6 +27,8 @@ public class Foo1 {
         this.iii = iii;
     }
 
+
+
     public int getIii() {
         return iii;
     }

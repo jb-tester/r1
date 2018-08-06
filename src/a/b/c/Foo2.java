@@ -23,4 +23,8 @@ public class Foo2 {
     public Foo2(int anInt) {
         this.anInt = anInt;
     }
+
+    public int getAnInt() {
+        return anInt;
+    }
 }
