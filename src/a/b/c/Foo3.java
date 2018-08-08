@@ -12,7 +12,7 @@ public class Foo3 {
     /**
      * @param arg
      */
-    public void method1(String arg) {
+    public void method1111(String arg) {
         String bar = arg.toLowerCase();
         System.out.println(bar);
     }
