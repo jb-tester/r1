@@ -10,6 +10,7 @@ public class Foo1 {
     /**
      * str1...
      * str1...
+     * master
      */
    private String str1;
     /**
