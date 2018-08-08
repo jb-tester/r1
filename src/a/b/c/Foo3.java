@@ -10,9 +10,9 @@ public class Foo3 {
     public Foo3() {
     }
     /**
-     * @param arg: my dummy parameter
+     * @param arg: my dummy parameter,  some string
      */
-    public void method1(String arg, int aaa) {
+    public void method1111(String arg, int aaa) {
         String bar = arg.toLowerCase();
         System.out.println(bar);
     }
