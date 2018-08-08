@@ -10,7 +10,7 @@ public class Foo3 {
     public Foo3() {
     }
     /**
-     * @param arg
+     * @param arg: my dummy parameter
      */
     public void method1(String arg) {
         String bar = arg.toLowerCase();
