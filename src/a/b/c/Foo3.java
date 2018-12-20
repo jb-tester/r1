@@ -2,11 +2,19 @@ package a.b.c;
 
 /**
  * *******************************
- * Created by Irina.Petrovskaya on 5/18/2018.
- * Project: r1_clone1
+ * Created by Irina Petrovskaya on 5/18/2018.
+ * Project: hg_and_git
  * *******************************
  */
 public class Foo3 {
     public Foo3() {
     }
+    /**
+     * @param arg: my dummy parameter,  some string
+     */
+    public void method1111(String arg, int aaa) {
+        String bar = arg.toLowerCase();
+        System.out.println(bar);
+    }
+
 }
