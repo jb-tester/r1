@@ -29,4 +29,12 @@ public class Foo1 {
     public int getIii() {
         return iii;
     }
+
+    public String getStr1() {
+        return str1;
+    }
+
+    public void setStr1(String str1) {
+        this.str1 = str1;
+    }
 }
