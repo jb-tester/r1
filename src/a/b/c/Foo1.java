@@ -7,12 +7,9 @@ package a.b.c;
  * *******************************
  */
 public class Foo1 {
-    /**
-     * ///
-     * str1...
-     */
 
-    String str1;
+
+    private String str1;
 
     public String getStr1() {
         return str1;
@@ -30,10 +27,7 @@ public class Foo1 {
         this.iii = iii;
     }
 
-    /**
-     * ////
-     * str1...
-     */
+
 
     private int iii;
 
