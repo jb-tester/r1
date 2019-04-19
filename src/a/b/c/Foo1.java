@@ -10,11 +10,11 @@ public class Foo1 {
 
 
     private String str1;
-    private int iii;
+    private int anInt1;
 
-    public Foo1(String str1, int iii) {
+    public Foo1(String str1, int anInt1) {
         this.str1 = str1;
-        this.iii = iii;
+        this.anInt1 = anInt1;
     }
 
     public String getStr1() {
@@ -25,11 +25,11 @@ public class Foo1 {
         this.str1 = str1;
     }
 
-    public int getIii() {
-        return iii;
+    public int getAnInt1() {
+        return anInt1;
     }
 
-    public void setIii(int iii) {
-        this.iii = iii;
+    public void setAnInt1(int anInt1) {
+        this.anInt1 = anInt1;
     }
 }
