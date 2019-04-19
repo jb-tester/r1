@@ -13,9 +13,7 @@ int yyy;
     public Foo5(int yyy) {
         this.yyy = yyy;
     }
-//
-//
-//
+
  int i2;
 
  public int getI2() {
