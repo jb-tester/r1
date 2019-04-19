@@ -10,6 +10,12 @@ public class Foo1 {
 
 
     private String str1;
+    private int iii;
+
+    public Foo1(String str1, int iii) {
+        this.str1 = str1;
+        this.iii = iii;
+    }
 
     public String getStr1() {
         return str1;
@@ -24,15 +30,6 @@ public class Foo1 {
     }
 
     public void setIii(int iii) {
-        this.iii = iii;
-    }
-
-
-
-    private int iii;
-
-    public Foo1(String str1, int iii) {
-        this.str1 = str1;
         this.iii = iii;
     }
 }
